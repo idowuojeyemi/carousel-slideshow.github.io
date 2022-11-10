@@ -10,6 +10,6 @@ A carousel/slideshow created with my best 6 different images.
 - when the next icon on the last image is clicked, it should show the first image.
 - when the previous icon on the first image is clicked, it should show the last image.
 
-  - Live Link :: [Go Live](https://iamnaeto.github.io/carousel-slideshow/)
+  - Live Link :: [Go Live](https://idowuojeyemi.github.io/carousel-slideshow.github.io/)
 
 ## Author: Idowu Ojeyemi ##
